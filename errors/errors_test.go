@@ -1,4 +1,4 @@
-package errors
+errors/errors_test.gopackage errors
 
 import (
 	"errors"
